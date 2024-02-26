@@ -8,15 +8,15 @@
 
 ## Introduction
 
-SolentFit Tracker is a dedicated single-page application aimed at aiding Solent University students in managing their health and fitness. Developed in response to the sedentary lifestyle challenges faced by students, particularly those in the IT field, this app is a tool for monitoring fitness progress and encouraging a more active lifestyle.
+A specialised one-page programme called SolentFit Tracker was created to help students at Solent University keep track of their fitness and health. This software was developed in response to the problems that students—especially those in the IT industry—have with leading inactive lives. It is a tool for tracking fitness goals and promoting an active lifestyle.
 
 ## Methodology
 
-Leveraging the Design Thinking (DT) methodology, the development of SolentFit Tracker centered around a human-centric approach. This iterative process of empathizing, defining, ideating, prototyping, and testing placed students' needs at the forefront, resulting in a prototype that aligns with the students' fitness management requirements.
+The creation process of SolentFit Tracker, which used the Design Thinking (DT) methodology, revolved around the human-centric approach. Throughout this iterative process of empathising, defining, ideating, prototyping, and testing, the needs of the students were given first priority. The result was a prototype that satisfies the demands of the students for fitness management.
 
 ## Methods
 
-The app's validation involved a survey among ten students using Google Forms to ascertain their fitness and wellness challenges. Insights were drawn regarding demographic profiles, exercise patterns, preferences, and constraints, shaping the app's functionality and design to address identified issues effectively.
+Ten students were questioned via Google Forms about their fitness and health challenges as part of the app's validation process. Limits, preferences, exercise regimens, and demographic profiles were all taken into consideration during the app's creation and development process, all of which contributed to effectively handling the challenges that were found.
 
 ## Discussion
 
@@ -42,7 +42,7 @@ The results underscored the importance of:
 
 ## Conclusion
 
-The SolentFit Tracker is positioned to significantly impact students' well-being, steering them toward a balanced and healthy lifestyle. This documentation captures the essence of the app, emphasizing the critical role of user-centered design and data-driven development in creating meaningful digital solutions.
+By guiding students towards a balanced, healthy lifestyle, the SolentFit Tracker seeks to dramatically enhance their wellbeing. The application's core is encapsulated in this documentation, which also highlights the significance of data-driven development and user-centered design in producing significant digital solutions.
 
 ## Appendix
 
