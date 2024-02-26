@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './GoalTracker.css'; // Ensure this CSS file exists and is styled accordingly
+import './GoalTracker.css'; 
 
 const GoalTracker = () => {
   const [userInfo, setUserInfo] = useState({

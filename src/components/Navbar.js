@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Navbar.css'; // Make sure the CSS file is correctly linked
+import './Navbar.css'; 
 
 const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
-        SolentFit {/* Updated to be a text-based logo */}
+        SolentFit {}
       </div>
       <ul className="nav-links">
       

@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0; /* Slightly off-white background for a softer look */
+  background-color: #f0f0f0; 
   color: #333;
 }
 
@@ -11,7 +11,7 @@ body {
   margin: auto;
 }
 
-/* Example of a card style for content */
+
 .card {
   background-color: #ffffff;
   border-radius: 8px;
@@ -25,4 +25,4 @@ body {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Add more custom styles as needed */
+

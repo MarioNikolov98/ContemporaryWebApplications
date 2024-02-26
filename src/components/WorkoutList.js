@@ -1,5 +1,5 @@
 import React from 'react';
-import './WorkoutList.css'; // Assuming you have a CSS file for styling
+import './WorkoutList.css'; 
 
 const workouts = [
   { id: 1, name: 'Strength Training', description: 'Focus on increasing muscle strength.' },

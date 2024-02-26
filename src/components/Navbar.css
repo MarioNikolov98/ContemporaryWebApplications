@@ -3,12 +3,12 @@
     align-items: center;
     justify-content: space-between;
     padding: 1rem 2rem;
-    background-color: #000; /* Navbar background color changed to black */
+    background-color: #000; 
     color: #ffffff;
   }
   
   .logo {
-    color: #FF0000; /* Logo text color changed to red */
+    color: #FF0000; 
     font-size: 1.5rem;
     font-weight: bold;
   }
@@ -28,6 +28,6 @@
   }
   
   .nav-item:hover {
-    background-color: #333; /* Darker shade on hover for better contrast */
+    background-color: #333; 
   }
   

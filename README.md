@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# SolentFit App Usage Guide
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to SolentFit, your personal fitness tracker! Follow these simple steps to get started and make the most of your fitness journey.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+### Installation
+First, ensure you have [Node.js](https://nodejs.org/en/) installed. Then clone the repository and install the dependencies:
 
-### `npm start`
+bash
+git clone https://github.com/MarioNikolov98/ContemporaryWebApplications.git
+cd SolentFit
+npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Starting the App
+Run the App in development mode
+npm start
+This will open http://localhost:3000 in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# SolentFit App Usage Guide
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Welcome to SolentFit, your personal fitness tracker! Follow these simple steps to get started and make the most of your fitness journey.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
+First, ensure you have [Node.js](https://nodejs.org/en/) installed. Then clone the repository and install the dependencies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Clone the repository
+git clone https://github.com/yourusername/SolentFit.git
+cd SolentFit
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Starting the App
+Run the app in development mode:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm start
+This will open http://localhost:3000 in your browser.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Features
+Login/Register
+Access the Login/Register Page: Click on the "Login/Register" link in the navigation bar.
+Login: Enter your existing credentials to access your personal data.
+Register: If you're a new user, fill in the registration form to create an account.
+Workouts
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### View Workouts
+View Workouts: Click on the "Workouts" link to view available workout types, such as Strength Training, Endurance, and Yoga.
+Select a Workout: Choose a workout to view details and recommendations.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Calorie Tracker
+Access the Calorie Tracker: Navigate to the "Calorie Tracker" from the main menu.
+Start a Workout Session: Select your exercise type and click "Start" to begin tracking.
+Pause/Stop Tracking: Use the "Stopwatch" to pause or the "Stop" button to end the session.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### View Calories Burned: 
+Based on the intensity and duration, the tracker will display the calories you've burned.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Workout Goals
+Set Goals: On the "Workout Goals" page, input your personal details and your specific fitness goals.
+Track Goals: Submit your goals and view them at the bottom of the page.
+Contributing
+Feedback and contributions are welcome! Please open an issue or submit a pull request for any enhancements you wish to propose.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './AuthPage.css'; // Ensure this CSS file exists and is styled accordingly
+import './AuthPage.css'; 
 
 const AuthPage = () => {
   // State for login and registration

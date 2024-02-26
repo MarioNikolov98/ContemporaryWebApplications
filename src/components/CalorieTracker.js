@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './CalorieTracker.css'; // Make sure to have this CSS file for styling
+import './CalorieTracker.css'; 
 
 const CalorieTracker = () => {
   const [exerciseType, setExerciseType] = useState('Running');
